@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [Solution](https://github.com/ThaBeanBoy/Front-End-Mentor-NFT-Preview-Card)
-- [Live Site](https://your-live-site-url.com)
+- [Live Site](https://thabeanboy.github.io/Front-End-Mentor-NFT-Preview-Card/)
 
 ## My process
 
