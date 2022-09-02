@@ -1,0 +1,22 @@
+Live Site - https://thabeanboy.github.io/Front-End-Mentor-NFT-Preview-Card/
+
+Repo - https://github.com/ThaBeanBoy/Front-End-Mentor-NFT-Preview-Card
+
+Front End Mentor - https://www.frontendmentor.io/home 
+
+Challenge - https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
+
+Honestly, this was just a simple HTML / CSS project, I didn't think much of it.
+
+ But after close inspection, the one fascinating thing about this was the spacing and placement of each element. It was interesting how related elements seemed close to each other (if they were not horizontally spaced out) whilst elements with little relation had larger margins between them.
+
+Another thing I liked about this project was how I could play around with the colours, especially on the text. 
+
+What I did find a little challenging was the hovering above the image, then a colour overlay & an eye icon would display. I eventually cracked it though.
+
+#webdesign
+#uidesign
+#figma
+#design
+#uidesigner
+#webdesigner
